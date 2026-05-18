@@ -1,4 +1,4 @@
-<h1 align="center">hi, im that dawg</h1>
+<h1 align="center">hi</h1>
 <h3 align="center">very un-professional programmer that spends too much time on dumb things</h3>
 
 - Ask me about **anything youd like**
